@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    box-shadow: 0 5px 10px darkorange;
+    overflow: hidden;
+    top: 0;
+}
+.logoContainer {
+    display: flex;
+    align-items: center;
+    height: max-content;
+}
+.login {
+    color: darkorange;
+}
+label {
+    font-size: 24px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+label:last-child {
+    border-radius: 5px;
+    padding: 3px;
+    background-color: darkorange;
+    color: black;
+    margin-left: 5px;
+}
+button, a {
+    color: darkorange;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: inherit;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+}

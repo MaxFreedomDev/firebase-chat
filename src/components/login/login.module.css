@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 320px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px darkorange;
+    background-color: black;
+}
+.btn {
+    color: #FFFFFF;
+    padding: 5px;
+}
+.btnText {
+    color: darkorange;
+    background: linear-gradient(to top, #877A59, #BF9A3B);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.btnText:hover {
+    color: aqua;
+    background: linear-gradient(to top, darkcyan, aqua);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
