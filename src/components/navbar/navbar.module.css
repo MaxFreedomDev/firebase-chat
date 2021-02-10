@@ -30,13 +30,3 @@ label:last-child {
     color: black;
     margin-left: 5px;
 }
-button, a {
-    color: darkorange;
-    font-size: 20px;
-    font-weight: 600;
-    background-color: inherit;
-    border: none;
-    outline: none;
-    cursor: pointer;
-    text-decoration: none;
-}

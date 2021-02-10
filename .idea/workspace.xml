@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="001651d2-999e-486e-adb9-d86b85e1be26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app-router.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/loader/loader.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/loader/loader.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/login/login.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navbar/navbar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+    <list default="true" id="001651d2-999e-486e-adb9-d86b85e1be26" name="Default Changelist" comment="add chat">
+      <change afterPath="$PROJECT_DIR$/src/components/chat/chat.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/login/login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/login/login.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navbar/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar/navbar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/const.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/const.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/chat/chat.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/chat/chat.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/loader/loader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/loader/loader.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navbar/navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar/navbar.module.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612953839595</updated>
       <workItem from="1612953841078" duration="1873000" />
-      <workItem from="1612956973878" duration="14471000" />
+      <workItem from="1612956973878" duration="29173000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1612954543840</created>
@@ -105,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612954543840</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add navbar, login, auth">
+      <created>1612972667552</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612972667552</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +123,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="add navbar, login, auth" />
+    <MESSAGE value="add chat" />
+    <option name="LAST_COMMIT_MESSAGE" value="add chat" />
   </component>
 </project>

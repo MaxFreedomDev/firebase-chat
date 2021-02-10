@@ -12,7 +12,7 @@ const App: React.FC = () => {
   const [user, loading, error] = useAuthState(auth);
 
   if (loading) {
-    return <Loader />;
+    return <Loader height={""} />;
   }
 
   return (

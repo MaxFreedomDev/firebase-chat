@@ -2,21 +2,33 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: cursive;
 }
 body {
-  background: linear-gradient(-45deg, #0B0B0B,#282827, #B2821F, #EDA205);
-  background-size: 400% 400%;
-  animation: gradient 15s ease infinite;
+  background-color: #0B0B0B;
   height: 100vh;
 }
-@keyframes gradient {
-  0% {
-    background-position: 0 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0 50%;
-  }
+button, a {
+  color: darkorange;
+  font-size: 20px;
+  font-weight: 600;
+  background-color: inherit;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  text-decoration: none;
 }
+textarea {
+  border: none;
+  border-radius: 5px;
+  width: 300px;
+  color: black;
+  padding: 5px 5px;
+  font-size: 16px;
+  font-weight: 500;
+  resize: none;
+  outline: none;
+  margin-bottom: 10px;
+  background-color: #D1CCBF;
+}
+

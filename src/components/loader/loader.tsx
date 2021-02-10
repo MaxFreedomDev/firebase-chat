@@ -1,10 +1,15 @@
 import React from "react";
 import styles from "./loader.module.css";
-const Loader: React.FC = () => {
+
+interface Props {
+  height: string;
+}
+
+const Loader: React.FC<Props> = ({ height }) => {
   return (
     <div
       className={styles.spinnerContainer}
-      style={{ height: window.innerHeight - 50 }}
+      style={{ height: height === "auto" ? "60vh" : window.innerHeight - 50 }}
     >
       <div className={styles.spinner}>
         <div></div>
