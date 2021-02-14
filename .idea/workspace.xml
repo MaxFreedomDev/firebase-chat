@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="001651d2-999e-486e-adb9-d86b85e1be26" name="Default Changelist" comment="add chat">
-      <change afterPath="$PROJECT_DIR$/src/components/chat/chat.module.css" afterDir="false" />
+    <list default="true" id="001651d2-999e-486e-adb9-d86b85e1be26" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/chat/chat.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/chat/chat.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/loader/loader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/loader/loader.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navbar/navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar/navbar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +81,8 @@
       <option name="presentableId" value="Default" />
       <updated>1612953839595</updated>
       <workItem from="1612953841078" duration="1873000" />
-      <workItem from="1612956973878" duration="29173000" />
+      <workItem from="1612956973878" duration="30928000" />
+      <workItem from="1613300964430" duration="266000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1612954543840</created>
@@ -101,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612972667552</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add chat">
+      <created>1612993227293</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612993227293</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
